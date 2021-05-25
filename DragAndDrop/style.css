@@ -1,0 +1,47 @@
+.whiteBox {
+  border: 2px solid black;
+  width: 180px;
+  height: 180px;
+  display: inline-block;
+  margin: 23px;
+  border-radius: 90px;
+  background-color: thistle;
+}
+
+#imgBox {
+  background: url(https://source.unsplash.com/random/100x100/?programming,coding)
+    no-repeat center/cover;
+  position: relative;
+  width: 150px;
+  height: 150px;
+  top: 15px;
+  left: 15px;
+  border-radius: 90px;
+}
+
+body {
+  background-color: rgba(173, 158, 139, 0.164);
+}
+
+.hold {
+  border: 4px solid blueviolet;
+}
+.hide {
+  display: none;
+}
+
+.imgBox {
+  background: url(https://source.unsplash.com/random/100x100/?programming,coding)
+    no-repeat center/cover;
+  position: relative;
+  width: 150px;
+  height: 150px;
+  top: 15px;
+  left: 15px;
+  border-radius: 90px;
+}
+
+.dashed {
+  border-style: dashed;
+  background: gray;
+}
